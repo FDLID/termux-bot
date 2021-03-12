@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-FDLBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCp5bH8pqBjqE3uqt3IYJFyQ" /></a>
+  <a href="https://youtube.com/channel/UCp5bH8pqBjqE3uqt3IYJFyQ"><img src="https://img.shields.io/badge/YouTube-FDLBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCp5bH8pqBjqE3uqt3IYJFyQ" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
