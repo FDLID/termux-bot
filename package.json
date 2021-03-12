@@ -1,7 +1,7 @@
 {
-  "name": "ITSMEIKY",
+  "name": "termux-whatsapp-bot",
   "version": "1.0.0",
-  "description": "Shizuka for whatsapp online with termux",
+  "description": "BY FDL",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -21,12 +21,12 @@
   "author": "ItsmeikyXSec404",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItsmeikyXSec4O4/ShizukaBOT.git"
+    "url": "git+https://github.com/FDLBOT/termux-bot"
   },
   "bugs": {
-    "url": "https://github.com/ItsmeikyXSec4O4/ShizukaBOT/issues"
+    "url": "https://github.com/FDLBOT/termux-bot/issues"
   },
-"homepage": "https://github.com/ItsmeikyXSec4O4/readme.md",
+"homepage": "https://github.com/FDLBOT/readme.md",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
