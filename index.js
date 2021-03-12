@@ -2,7 +2,6 @@
 //DILARANG KERAS REUPLOAD
 //HARGAI CREATOR
 //FDL GANZ
-//@fdl_ganz
 const {
     WAConnection,
    MessageType,
