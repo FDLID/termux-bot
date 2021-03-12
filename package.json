@@ -1,15 +1,14 @@
 {
-  "name": "termux-whatsapp-bot",
-  "version": "1.0.0",
-  "description": "BY FDL",
+  "name": "termux-wabot",
+  "version": "0.0.2",
+  "description": "No comment",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
- "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -18,17 +17,9 @@
     "whatsapp",
     "bot"
   ],
-  "author": "GUA",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FDLBOT/termux-bot"
-  },
-  "bugs": {
-    "url": "https://github.com/FDLBOT/termux-bot/issues"
-  },
-"homepage": "https://github.com/FDLBOT/readme.md",
-"license": "ISC",
-"dependencies": {
+  "author": "FDL",
+  "license": "ISC",
+  "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^3.2.0",
@@ -45,5 +36,14 @@
     "request": "^2.81.0",
     "spinnies": "^0.5.1",
     "tiktok-scraper": "^1.4.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FDLBOT/termux-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FDLBOT/termux-bot/issues"
+  },
+  "homepage": "https://github.com/FDLBOT/termux-bot#readme"
 }
