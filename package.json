@@ -8,8 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "play": "nodemon index"
+    "start": "node index.js",
   },
   "keywords": [
     "termux",
