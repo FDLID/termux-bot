@@ -1,7 +1,7 @@
 //HAYO LO RECODE KAN
 //DILARANG KERAS REUPLOAD
 //HARGAI CREATOR
-//FDL GANZ
+//iruhama
 const {
     WAConnection,
    MessageType,
@@ -39,9 +39,9 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:OWNER GANZ\n' 
+            + 'FN:OWNER iruhama\n' 
             + 'ORG: Pengembang BOT;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=628990542731:+62 899-0542-731\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6281214149532:+62 85210389557\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -51,7 +51,7 @@ cr = '*VERIFIED*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["628990542731@s.whatsapp.net"] 
+const ownerNumber = ["6281214149532@s.whatsapp.net"] 
 /************************************/
 
        
